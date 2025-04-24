@@ -3,13 +3,11 @@ A simple and intuitive Expense Tracker built with React, Redux, and localStorage
 
 🚀 Features
 📊 Dashboard Overview
-
 Summary cards displaying total expenses
 
 Interactive charts for visualizing spending
 
 💸 Add & Manage Transactions
-
 Add new income or expense entries
 
 View recent and upcoming activities
@@ -17,7 +15,6 @@ View recent and upcoming activities
 Filter and search transactions easily
 
 🌙 Dark Mode Support
-
 Toggle between light and dark themes
 
 Theme state managed using ThemeContext
@@ -32,11 +29,11 @@ Styling: Custom CSS, Tailwind CSS, FontAwesome, React Icons
 Data Storage: localStorage
 
 🖼️ Screenshots
-Front Page: https://prnt.sc/JkMaJbz9NSXV
+Front Page: View Screenshot
 
-Dashboard (Light Theme): https://prnt.sc/ebEJbmBgArDw
+Dashboard (Light Theme): View Screenshot
 
-Dashboard (Dark Theme): https://prnt.sc/CwCi7dPXaD4U
+Dashboard (Dark Theme): View Screenshot
 
 📦 Installation
 To run this project locally, follow these steps:
@@ -56,44 +53,51 @@ npm install
 # Start the development server
 npm start
 🧪 Running Tests
-If you add unit tests in the future:
-
 bash
 Copy
 Edit
 npm test
-
-
 📁 Folder Structure
 graphql
 Copy
 Edit
 src/
-├── assets/               # CSS and static assets
-├── components/           # Reusable React components
-├── pages/                # Main page components (Dashboard, etc.)
-├── redux/                # Redux slices and store configuration
-├── utils/                # Utility functions
-└── App.js                # Main application file
+├── assets/         # CSS and static assets
+├── components/     # Reusable React components
+├── pages/          # Main page components (Dashboard, etc.)
+├── redux/          # Redux slices and store configuration
+├── utils/          # Utility functions
+└── App.js          # Main application file
+✅ To run the server:
 
-
-To run the server:
-=> npm run dev
-
+bash
+Copy
+Edit
+npm run dev
 🤝 Contributing
 Contributions are welcome! Here's how you can help:
 
 Fork the repository
 
-Create your feature branch: git checkout -b feature/YourFeature
+Create your feature branch:
 
-Commit your changes: git commit -m 'Add your feature'
+bash
+Copy
+Edit
+git checkout -b feature/YourFeature
+Commit your changes:
 
-Push to the branch: git push origin feature/YourFeature
+bash
+Copy
+Edit
+git commit -m 'Add your feature'
+Push to the branch:
 
+bash
+Copy
+Edit
+git push origin feature/YourFeature
 Open a pull request 🚀
-
-
 
 🙋‍♂️ Author
 Developed with ❤️ by Priyanshu Pandey
