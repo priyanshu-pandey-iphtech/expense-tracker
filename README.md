@@ -1,63 +1,80 @@
-💰 Expense Tracker App
+# 💰 Expense Tracker App
 A simple and intuitive Expense Tracker built with React, Redux, and localStorage, designed to help users manage their income and expenses effectively.
 
-🚀 Features
-📊 Dashboard Overview
-Summary cards displaying total expenses
+## 🚀 Features
+1.📊 Dashboard Overview
 
-Interactive charts for visualizing spending
+2.Summary cards displaying total expenses
 
-💸 Add & Manage Transactions
-Add new income or expense entries
+3.Interactive charts for visualizing spending
 
-View recent and upcoming activities
+4.💸 Add & Manage Transactions
 
-Filter and search transactions easily
+5.Add new income or expense entries
 
-🌙 Dark Mode Support
-Toggle between light and dark themes
+6.View recent and upcoming activities
 
-Theme state managed using ThemeContext
+7.Filter and search transactions easily
 
-🛠️ Tech Stack
-Frontend: React, Redux, React Router
+8.🌙 Dark Mode Support
 
-State Management: Redux Toolkit
+9.Toggle between light and dark themes
 
-Styling: Custom CSS, Tailwind CSS, FontAwesome, React Icons
+10.Theme state managed using ThemeContext
 
-Data Storage: localStorage
+## 🛠️ Tech Stack
+### Frontend: React, Redux, React Router
 
-🖼️ Screenshots
-Front Page: View Screenshot
+### State Management: Redux Toolkit
 
-Dashboard (Light Theme): View Screenshot
+### Styling: Custom CSS, Tailwind CSS, FontAwesome, React Icons
 
-Dashboard (Dark Theme): View Screenshot
+### Data Storage: localStorage
 
-📦 Installation
+## 🖼️ Screenshots
+### Front Page: View Screenshot
+
+Dashboard (Light Theme): https://prnt.sc/ebEJbmBgArDw
+
+Dashboard (Dark Theme): https://prnt.sc/CwCi7dPXaD4U
+
+# Requirements
+Before running the project, ensure you have the following installed on your machine:
+
+Node.js (v14 or above)
+
+npm (v6 or above) or yarn
+
+A modern browser (Chrome, Firefox, etc.)
+
+Git (for cloning the repository)
+
+
+
+# 📦 Installation
 To run this project locally, follow these steps:
 
 bash
 Copy
 Edit
-# Clone the repository
-git clone https://github.com/your-username/expense-tracker-app.git
 
-# Navigate into the project directory
+## Clone the repository
+git clone https://github.com/priyanshu-pandey-iphtech/expense-tracker-app.git
+
+## Navigate into the project directory
 cd expense-tracker-app
 
-# Install dependencies
+## Install dependencies
 npm install
 
-# Start the development server
+## Start the development server
 npm start
 🧪 Running Tests
 bash
 Copy
 Edit
 npm test
-📁 Folder Structure
+# 📁 Folder Structure
 graphql
 Copy
 Edit
@@ -74,30 +91,8 @@ bash
 Copy
 Edit
 npm run dev
-🤝 Contributing
-Contributions are welcome! Here's how you can help:
 
-Fork the repository
-
-Create your feature branch:
-
-bash
-Copy
-Edit
-git checkout -b feature/YourFeature
-Commit your changes:
-
-bash
-Copy
-Edit
-git commit -m 'Add your feature'
-Push to the branch:
-
-bash
-Copy
-Edit
-git push origin feature/YourFeature
-Open a pull request 🚀
 
 🙋‍♂️ Author
-Developed with ❤️ by Priyanshu Pandey
+Developed with ❤️ by 
+## Priyanshu Pandey
