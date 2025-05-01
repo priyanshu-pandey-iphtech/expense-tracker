@@ -1,0 +1,56 @@
+Transaction ID;Company;Date;Price;Transaction Type;Payment Status;Mode Of Payment
+TXN1000;Zoom;2024-09-01;706,06;Debit; Payment Pending;UPI
+TXN1001;Uber;2024-10-22;773,64;Debit;Payment Successful;Cash
+TXN1002;Zoom;2024-07-14;728,72;Debit;Payment Successful;UPI
+TXN1003;Netflix;2025-02-27;503,32;Credit;Payment Successful;Card
+TXN1004;Tesla;2025-04-01;610,73;Debit;Payment Successful;UPI
+TXN1005;Meta;2024-05-09;333,3;Debit;Payment Failed;Card
+TXN1006;Adobe;2024-12-12;917,24;Debit;Payment Successful;Cash
+TXN1007;Meta;2024-09-20;380,85;Credit;Payment Successful;Card
+TXN1008;Tesla;2024-07-12;593,71;Debit; Payment Pending;Cash
+TXN1009;Amazon;2024-04-14;461,64;Credit;Payment Failed;UPI
+TXN1010;Apple;2024-07-25;112,86;Debit;Payment Pending;Cash
+TXN1011;Adobe;2025-02-14;188,01;Debit; Payment Pending;Card
+TXN1012;Netflix;2024-09-08;351,98;Debit;Payment Successful;Cash
+TXN1013;Meta;2024-10-27;664,88;Debit;Payment Failed;Card
+TXN1014;Meta;2024-06-05;875,22;Debit; Payment Pending;UPI
+TXN1015;Adobe;2025-03-06;680,45;Debit;Payment Successful;Cash
+TXN1016;Uber;2024-04-16;138,07;Debit; Payment Pending;UPI
+TXN1017;Uber;2025-01-17;383,24;Credit; Payment Pending;Cash
+TXN1018;Apple;2025-04-01;646,84;Credit; Payment Pending;Card
+TXN1019;Meta;2025-02-28;491,9;Debit;Payment Successful;Cash
+TXN1020;Tesla;2025-02-01;361,93;Debit;Payment Successful;UPI
+TXN1021;Uber;2024-09-24;403,76;Credit; Payment Pending;Card
+TXN1022;Google;2024-09-27;801,48;Debit;Payment Successful;Cash
+TXN1023;Uber;2024-06-29;234,47;Credit;Payment Failed;Card
+TXN1024;Tesla;2025-01-12;216,68;Debit;Payment Failed;Cash
+TXN1025;Netflix;2024-05-01;377,09;Debit;Payment Failed;UPI
+TXN1026;Tesla;2024-09-22;369,3;Debit;Payment Successful;Card
+TXN1027;Adobe;2024-12-09;526,6;Credit;Payment Successful;Cash
+TXN1028;Meta;2024-06-05;729,64;Credit;Payment Successful;Card
+TXN1029;Uber;2024-09-25;761,28;Debit;Payment Successful;Cash
+TXN1030;Zoom;2024-10-16;825,51;Debit;Payment Successful;UPI
+TXN1031;Google;2024-07-17;774,88;Debit;Payment Failed;Card
+TXN1032;Apple;2024-05-27;454,43;Credit;Payment Failed;Cash
+TXN1033;Meta;2025-01-31;742,97;Debit;Payment Failed;Card
+TXN1034;Google;2024-10-12;298,12;Credit; Payment Pending;Cash
+TXN1035;Amazon;2024-11-13;272,75;Debit;Payment Successful;UPI
+TXN1036;Apple;2025-01-01;506,45;Debit;Payment Successful;Card
+TXN1037;Meta;2024-10-27;330,83;Debit;Payment Successful;Cash
+TXN1038;Zoom;2024-06-20;194,17;Credit;Payment Failed;UPI
+TXN1039;Microsoft;2025-01-11;844,29;Debit; Payment Pending;Cash
+TXN1040;Meta;2024-06-21;607,51;Credit; Payment Pending;Card
+TXN1041;Meta;2025-03-20;925,34;Credit;Payment Failed;Cash
+TXN1042;Meta;2025-02-26;703,06;Debit; Payment Pending;UPI
+TXN1043;Zoom;2024-07-28;108,73;Credit;Payment Failed;Cash
+TXN1044;Apple;2024-12-31;233,53;Credit; Payment Pending;UPI
+TXN1045;Amazon;2024-10-18;624,65;Credit;Payment Successful;Card
+TXN1046;Google;2024-12-27;882,01;Debit;Payment Successful;Cash
+TXN1047;Netflix;2024-06-12;136,57;Debit;Payment Failed;UPI
+TXN1048;Microsoft;2024-06-28;820,58;Credit;Payment Failed;Cash
+TXN1049;Adobe;2024-10-19;910,98;Debit; Payment Pending;Card
+TXN1050;Adobe;2024-10-19;910,98;Debit; Payment Pending;Card
+TXN1051;Google;2024-03-10;910,98;Debit; Payment Successful;Card
+TXN1052;Zomato;2024-02-10;5031,98;Debit; Payment Failed;Card
+TXN1053;Zepto;2024-01-10;960,98;Debit; Payment Successful;Card
+TXN1054;Zepto;2024-11-10;960,98;Debit; Payment Successful;Card
