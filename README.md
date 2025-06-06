@@ -32,15 +32,20 @@ A simple and intuitive Expense Tracker built with React, Redux, and localStorage
 ### Data Storage: localStorage
 
 ## 🖼️ Screenshots
-### Front Page: View Screenshot
 
-#Dashboard (Light Theme): ![Image](https://github.com/user-attachments/assets/162884a6-6d17-4b1b-aecc-b5f95f7cb74f)
 
-#Dashboard (Dark Theme): ![Image](https://github.com/user-attachments/assets/558b2780-8aeb-47c7-85a4-92201307aac6)
+<table> <tr> <td align="center"><strong>Dashboard (Light Theme)</strong></td> <td align="center"><strong>Dashboard (Dark Theme)</strong></td> </tr> <tr> <td align="center"> <img src="https://github.com/user-attachments/assets/162884a6-6d17-4b1b-aecc-b5f95f7cb74f" width="400" /> </td> <td align="center"> <img src="https://github.com/user-attachments/assets/558b2780-8aeb-47c7-85a4-92201307aac6" width="400" /> </td> </tr> </table>
+
+
 
 ## 🎞️ GIF 
-![Image](https://github.com/user-attachments/assets/93f2dc37-8d13-4487-941f-d00d795a18dd)
-
+<table border="1" style="border-collapse: collapse;">
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/93f2dc37-8d13-4487-941f-d00d795a18dd" width="600" />
+    </td>
+  </tr>
+</table>
 # Requirements
 Before running the project, ensure you have the following installed on your machine:
 
