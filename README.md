@@ -93,6 +93,6 @@ Edit
 npm run dev
 
 
-🙋‍♂️ Author
+🙋‍♂️ 
 Developed  by 
 ## Priyanshu Pandey
