@@ -94,5 +94,5 @@ npm run dev
 
 
 🙋‍♂️ Author
-Developed with ❤️ by 
+Developed  by 
 ## Priyanshu Pandey
