@@ -34,9 +34,9 @@ A simple and intuitive Expense Tracker built with React, Redux, and localStorage
 ## 🖼️ Screenshots
 ### Front Page: View Screenshot
 
-Dashboard ![Image](https://github.com/user-attachments/assets/558b2780-8aeb-47c7-85a4-92201307aac6)
+Dashboard (Light Theme): ![Image](https://github.com/user-attachments/assets/162884a6-6d17-4b1b-aecc-b5f95f7cb74f)
 
-Dashboard (Dark Theme): https://prnt.sc/CwCi7dPXaD4U
+Dashboard (Dark Theme): ![Image](https://github.com/user-attachments/assets/558b2780-8aeb-47c7-85a4-92201307aac6)
 
 # Requirements
 Before running the project, ensure you have the following installed on your machine:
