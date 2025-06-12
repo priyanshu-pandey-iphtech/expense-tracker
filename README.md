@@ -41,10 +41,10 @@ A simple and intuitive Expense Tracker built with React, Redux, and localStorage
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/7d7cd54d-e6b2-48ae-95fd-6997b12b2e2b" width="400" />
+      <img src="https://github.com/user-attachments/assets/497f357b-5417-4c8f-b37a-1138649bebd8" width="400" />
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/497f357b-5417-4c8f-b37a-1138649bebd8" width="400" />
+      <img src="https://github.com/user-attachments/assets/7d7cd54d-e6b2-48ae-95fd-6997b12b2e2b" width="400" />
     </td>
   </tr>
 </table>
